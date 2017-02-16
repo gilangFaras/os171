@@ -20,3 +20,4 @@ drwxr-xr-x  2 gilang.faras StafCS 4096 Feb 17 04:24 week09
 drwxr-xr-x  2 gilang.faras StafCS 4096 Feb 17 04:25 week10
 drwxr-xr-x  2 gilang.faras StafCS 4096 Feb 17 04:26 xtra
 /home/fasilkom/mahasiswa/g/gilang.faras/os171/week01
+Today is 17 Feb 2017 at 05:45:54
