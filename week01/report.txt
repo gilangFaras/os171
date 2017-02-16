@@ -1,0 +1,2 @@
+created folders for each week and some other folders,
+learned basic things around git and also vi
